@@ -6,6 +6,7 @@ Time spent: 10 hours spent in total
 
 ## Honeypots Deployed
 1. Ubuntu - Dionaea with HTTP
+2. Ubuntu - Snort
 
 ## Issues encountered
 1. I was new to Google Cloud so it took some time to navigate that.The setup was pretty straightforward but one of the main 
