@@ -24,9 +24,13 @@ TOP 5 Attacked ports:
 TOP 5 Attacks Signatures:
 
 ET DROP Dshield Block Listed Source group 1 (9 times)
+
 ET CINS Active Threat Intelligence Poor Reputation IP TCP group 4 (4 times)
+
 ET CINS Active Threat Intelligence Poor Reputation IP TCP group 13 (1 times)
+
 ET CINS Active Threat Intelligence Poor Reputation IP TCP group 36 (1 times)
+
 ET CINS Active Threat Intelligence Poor Reputation IP TCP group 17 (1 times)
 
 
