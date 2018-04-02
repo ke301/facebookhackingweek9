@@ -16,4 +16,5 @@ use the installer from Google.
 going through the Google Cloud SDK installer. 
 
 3. Another issue was that I had some trouble getting the sesson.json file off the MHN-admin machine after exporting.
-These are all classic sort of Linux problems of package managers not setting up right, or some config file. 
+For some reason "scp" was giving me problems. These are all classic sort of Linux problems of package managers not setting 
+up right, or some config file. 
