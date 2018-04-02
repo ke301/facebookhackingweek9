@@ -1,0 +1,19 @@
+# Project 9 - Modern Honeypot Network
+
+Time spent: 10 hours spent in total
+
+> Objective: Setup the honeypot on Google Cloud VM's.
+
+## Honeypots Deployed
+1. Ubuntu - Dionaea with HTTP
+
+## Issues encountered
+1. I was new to Google Cloud so it took some time to navigate that.The setup was pretty straightforward but one of the main 
+problems is that I didn't use the Google Cloud SDK Installer at first. I tried extracting a zip file. It is recommended to 
+use the installer from Google. 
+
+2. The next issue that is somewhat related is that you have to make sure that "Beta" is checked in the box when you are
+going through the Google Cloud SDK installer. 
+
+3. Another issue was that I had some trouble getting the sesson.json file off the MHN-admin machine after exporting.
+These are all classic sort of Linux problems of package managers not setting up right, or some config file. 
